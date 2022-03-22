@@ -1,5 +1,6 @@
-#About
-In this project, I will be building simple components using html, css and vanila js
+# About
 
-##Expanding cards
+In this project, I will be building simple components using html, css and vanila
+js
 
+## Expanding cards
